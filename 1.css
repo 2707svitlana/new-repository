@@ -35,15 +35,6 @@ a :visited{
     padding: 20px;
 }
 
-.bg-green{
-    background: #a5ece1;
-    width: 800px;
-    height: 400px;
-    padding: 60px;
-    margin-left:auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-}
 
 .bg-red{
     background: #e6b57e;
